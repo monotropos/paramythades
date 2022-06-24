@@ -37,7 +37,7 @@
 
 ## <a name="εγκατάσταση"></a>Εγκατάσταση / Αναβάθμιση
 
-- Κατεβάζετε το αρχείο [paramythades.apk](https://github.com/monotropos/paramythades/blob/main/paramythades.apk) στη συσκευή σας, πατώντας είτε στο "**View raw**" ή στις τρεις τελείες και επιλέγοντας "**Download**" και το εκτελείτε.
+- Πατήστε στο αρχείο **[paramythades.apk](https://github.com/monotropos/paramythades/blob/main/paramythades.apk)** για να το κατεβάσετε στη συσκευή σας, πατώντας είτε στο "**View raw**" ή στις τρεις τελείες και επιλέγοντας "**Download**" (όταν δείτε την παρακάτω εικόνα) και, στη συνέχεια, το εκτελείτε.
 
 ![Δείτε την εικόνα για κατέβασμα αρχείου](./images/paramythades-app-download.jpg)
 
